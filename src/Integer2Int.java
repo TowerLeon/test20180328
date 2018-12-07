@@ -228,50 +228,52 @@ class CharToString {
 //}
 
 //14.08
-class Emp {
-    public String id;
-    public String name;
+//class Emp {
+//    public String id;
+//    public String name;
+//
+//    public Emp(String id, String name) {
+//        this.id = id;
+//        this.name = name;
+//    }
+//
+//    public String getId() {
+//        return id;
+//    }
+//
+//    public void setId(String id) {
+//        this.id = id;
+//    }
+//
+//    public String getName() {
+//        return name;
+//    }
+//
+//    public void setName(String name) {
+//        this.name = name;
+//    }
+//}
+//
+//class CreateMap {
+//    public static void main(String[] args) {
+//        Map<String,String> map = new HashMap<>();
+//        Emp emp1 = new Emp("001","001");
+//        Emp emp2 = new Emp("002","002");
+//        Emp emp3 = new Emp("003","003");
+//        Emp emp4 = new Emp("004","004");
+//        Emp emp5 = new Emp("005","005");
+//        map.put(emp1.getId(),emp1.getName());
+//        map.put(emp2.getId(),emp2.getName());
+//        map.put(emp3.getId(),emp3.getName());
+//        map.put(emp4.getId(),emp4.getName());
+//        map.put(emp5.getId(),emp5.getName());
+//        map.remove(emp4.getId());
+//        for (String string:
+//             map.keySet()) {
+//            System.out.println(map.get(string));
+//        }
+//    }
+//
+//}
 
-    public Emp(String id, String name) {
-        this.id = id;
-        this.name = name;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-}
-
-class CreateMap {
-    public static void main(String[] args) {
-        Map<String,String> map = new HashMap<>();
-        Emp emp1 = new Emp("001","001");
-        Emp emp2 = new Emp("002","002");
-        Emp emp3 = new Emp("003","003");
-        Emp emp4 = new Emp("004","004");
-        Emp emp5 = new Emp("005","005");
-        map.put(emp1.getId(),emp1.getName());
-        map.put(emp2.getId(),emp2.getName());
-        map.put(emp3.getId(),emp3.getName());
-        map.put(emp4.getId(),emp4.getName());
-        map.put(emp5.getId(),emp5.getName());
-        map.remove(emp4.getId());
-        for (String string:
-             map.keySet()) {
-            System.out.println(map.get(string));
-        }
-    }
-
-}
+//15.10
