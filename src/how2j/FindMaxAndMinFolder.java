@@ -40,29 +40,34 @@ public class FindMaxAndMinFolder {
             }
         }
 //output stream and input stream
-            if (file.exists()) {
-                try {
-                    FileOutputStream fout = new FileOutputStream(file);
-                    byte[] foutByte = "This is a String.".getBytes();
-                    fout.write(foutByte);
-                    fout.close();
-                }
-                catch (Exception e) {
-                    e.printStackTrace();
-                }
-                try {
-                    FileInputStream fin = new FileInputStream(file);
-                    byte[] finByte = new byte[1024];
-                    int len = fin.read(finByte); //return length,but is necessary to associate fin with finByte
-                    System.out.println("The text is " + new String(finByte));
-                    fin.close();
-                }
-                catch (Exception e) {
-                    e.printStackTrace();
-                }
-
+        if (file.exists()) {
+            try {
+                FileOutputStream fout = new FileOutputStream(file);
+                byte[] foutByte = "This is a String.".getBytes();
+                fout.write(foutByte);
+                fout.close();
+            }
+            catch (Exception e) {
+                e.printStackTrace();
+            }
+            try {
+                FileInputStream fin = new FileInputStream(file);
+                byte[] finByte = new byte[1024];
+                int len = fin.read(finByte); //return length,but is necessary to associate fin with finByte
+                System.out.println("The text is " + new String(finByte));
+                fin.close();
+            }
+            catch (Exception e) {
+                e.printStackTrace();
             }
 
+        }
+//FileWriter and FileReader
+        if(file.exists()) {
+            try {
+                
+            }
+        }
 
 
     }
