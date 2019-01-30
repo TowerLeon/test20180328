@@ -43,9 +43,9 @@ public class GenericsTest {
             numbers.add(123);//int
             numbers.add(123f);//float
             numbers.add(123d);//double
-            numbers.add("String");
-            for (int i:numbers.size()) {
-                System.out.println(numbers.get(i));
+//            numbers.add("String");
+            for (Number i:numbers) {
+                System.out.println(numbers.get((int) i));
             }
         }
         catch (Exception e) {
