@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a271d3bc-4b75-4343-a3d0-93592dd633da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a271d3bc-4b75-4343-a3d0-93592dd633da" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +19,7 @@
       <file leaf-file-name="Man.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/serializable/Man.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="184">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="49" />
               <folding>
                 <element signature="e#549#550#0" expanded="true" />
@@ -37,35 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/serializable/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#853#854#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-                <element signature="e#939#940#0" expanded="true" />
-                <element signature="e#969#970#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/serializable/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="46">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#1623#0" expanded="true" />
@@ -77,7 +50,7 @@
       <file leaf-file-name="GenericsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/how2j/generics/GenericsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="782">
               <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,17 +62,27 @@
       <file leaf-file-name="JavaExam.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaExam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1686">
+            <state relative-caret-position="23">
               <caret line="19" column="0" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Value.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Loop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Loop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Value.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Value.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
+            <state relative-caret-position="69">
               <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
@@ -109,7 +92,7 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="575">
               <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
               <folding />
             </state>
@@ -119,8 +102,18 @@
       <file leaf-file-name="MapExample5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javatpoint/collection/map/MapExample5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="299">
+              <caret line="19" column="80" lean-forward="true" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Compare.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/practise190506/Compare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -129,18 +122,8 @@
       <file leaf-file-name="HashMap3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javatpoint/collection/map/HashMap3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="276">
               <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="output.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="194" lean-forward="false" selection-start-line="0" selection-start-column="194" selection-end-line="0" selection-end-column="194" />
               <folding />
             </state>
           </provider>
@@ -187,8 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javatpoint/io/PrintStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/com/javatpoint/io/printstream/PrintStreamTest.java" />
         <option value="$PROJECT_DIR$/src/com/javatpoint/io/PrintWriterExample.java" />
         <option value="$PROJECT_DIR$/src/com/javatpoint/io/printwriter/PrintWriterExample.java" />
         <option value="$PROJECT_DIR$/src/com/javatpoint/io/OutputStreamWriterExample.java" />
@@ -238,6 +219,8 @@
         <option value="$PROJECT_DIR$/src/main/java/serializable/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/how2j/generics/GenericsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Gen16Digits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practise190506/compare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/practise190506/Compare.java" />
       </list>
     </option>
   </component>
@@ -261,9 +244,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/apache-maven-3.6.0/repository" />
-        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.0/conf/settings.xml" />
+        <option name="localRepository" value="D:\apache-maven-3.6.0\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -278,10 +261,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="830" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="21" />
+    <option name="width" value="1280" />
+    <option name="height" value="699" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -671,10 +654,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -700,10 +679,22 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test20180328" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test20180328" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practise190506" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -713,8 +704,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.selected.package.jscs" value="" />
@@ -748,7 +739,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Value">
+  <component name="RunManager" selected="Application.Compare">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -756,14 +747,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="GenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="how2j.generics.*" />
+          <option name="PATTERN" value="practise190506.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="how2j.generics.GenericsTest" />
+      <option name="MAIN_CLASS_NAME" value="practise190506.Compare" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -775,14 +766,14 @@
       <module name="test20180328" />
       <envs />
     </configuration>
-    <configuration name="HelloWorld (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="how2j.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="how2j.generics.HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="how2j.generics.GenericsTest" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -997,18 +988,18 @@
       <item index="3" class="java.lang.String" itemvalue="Application.Value" />
       <item index="4" class="java.lang.String" itemvalue="Application.rectangle" />
       <item index="5" class="java.lang.String" itemvalue="Application.GenericsTest" />
-      <item index="6" class="java.lang.String" itemvalue="Application.HelloWorld (1)" />
-      <item index="7" class="java.lang.String" itemvalue="Application.HelloWorld1" />
-      <item index="8" class="java.lang.String" itemvalue="Application.MapExample5" />
-      <item index="9" class="java.lang.String" itemvalue="Application.randomStringGenerator" />
+      <item index="6" class="java.lang.String" itemvalue="Application.HelloWorld1" />
+      <item index="7" class="java.lang.String" itemvalue="Application.MapExample5" />
+      <item index="8" class="java.lang.String" itemvalue="Application.randomStringGenerator" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Compare" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.randomStringGenerator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GenericsTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MapExample5" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorld1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Compare" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MapExample5" />
+        <item index="2" class="java.lang.String" itemvalue="Application.randomStringGenerator" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GenericsTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld1" />
       </list>
     </recent_temporary>
   </component>
@@ -1065,11 +1056,12 @@
       <workItem from="1548814027781" duration="3774000" />
       <workItem from="1548916957500" duration="1862000" />
       <workItem from="1549379234762" duration="2000000" />
+      <workItem from="1557069636425" duration="3660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249442000" />
+    <option name="totallyTimeSpent" value="253102000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1081,7 +1073,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="832" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1091,19 +1084,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25101763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24971494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16452074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1670247" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1150,20 +1143,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javatpoint/io/chararrayreader/CharArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javatpoint/io/chararraywriter/CharArrayWriterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javatpoint/io/printwriter/PrintWriterExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1396,23 +1375,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/serializable/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="138">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="false" />
+            <element signature="e#440#441#0" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+            <element signature="e#701#702#0" expanded="false" />
+            <element signature="e#735#736#0" expanded="false" />
+            <element signature="e#766#767#0" expanded="false" />
+            <element signature="e#813#814#0" expanded="false" />
+            <element signature="e#853#854#0" expanded="false" />
+            <element signature="e#879#880#0" expanded="false" />
+            <element signature="e#905#906#0" expanded="false" />
+            <element signature="e#939#940#0" expanded="false" />
+            <element signature="e#969#970#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1420,7 +1399,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/serializable/Man.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="184">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="49" />
           <folding>
             <element signature="e#549#550#0" expanded="true" />
@@ -1437,7 +1416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/serializable/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="46">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#1623#0" expanded="true" />
@@ -1448,7 +1427,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/how2j/Generics.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javatpoint/collection/map/HashMap3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="276">
           <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding />
         </state>
@@ -1456,7 +1435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/how2j/generics/GenericsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
+        <state relative-caret-position="782">
           <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1466,33 +1445,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="575">
           <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Gen16Digits.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Loop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javatpoint/collection/map/MapExample5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="299">
+          <caret line="19" column="80" lean-forward="true" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Gen16Digits.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaExam.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/practise190506/Compare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1686">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Value.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="437">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
