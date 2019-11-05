@@ -7,9 +7,14 @@
  */
 package practise190506;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.SimpleTimeZone;
+
 //algorithm for bubbles
 public class Compare {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
         int a[] = {4,3,2,5,1};
         System.out.println("The original array is: ");
         for (int i = 0; i < 5; i++) {
@@ -28,7 +33,9 @@ public class Compare {
         System.out.println();
         System.out.println("The assorted array is : ");
         for (int i = 0; i < 5; i++) {
-            System.out.print(a[i]);
+            System.out.println(a[i]);
         }
+
     }
+
 }
